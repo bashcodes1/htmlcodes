@@ -1,0 +1,45 @@
+.Header{
+  font-size: 22px;
+  font-weight: bold;
+  
+}
+
+
+.pickup{
+  display: block;
+  width: 300px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(238, 233, 233);
+  margin-bottom: 8px;
+  border: none;
+  font-size: 12px;
+  
+}
+.Request{
+  color: white;
+  background-color: black;
+  
+  padding-left:18px ;
+  padding-top: 10px;
+  padding-right: 18px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+
+
+}
+.Schedule{
+  color:black;
+  background-color:rgb(238, 233, 233);
+  margin-left: 9px;
+  padding-left: 18px;
+  padding-top: 10px;
+  padding-right: 18px;
+  padding-bottom: 10px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+}
